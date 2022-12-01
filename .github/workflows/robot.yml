@@ -1,0 +1,33 @@
+name: schedule-update
+
+on:
+  issues:
+    types: [opened, edited]
+  push: 
+   branches:
+    - main
+
+jobs:
+  bots:
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Checkout code"
+        uses: actions/checkout@v3
+
+      - name: "Set node"
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16.x
+
+      - name: "Install"
+        run: npx pnpm i
+
+      - name: "Run bash"
+        run: node main.js
+ 
+      - name: "Commit"
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: 'README.md'
+          push: origin HEAD:main
+          message: "chore: update readme"
