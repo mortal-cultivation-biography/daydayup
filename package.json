@@ -1,7 +1,4 @@
 {
-  "dependencies": {
-    "issue-collection-md": "^0.0.1"
-  },
   "name": "daydayup",
   "description": "A interview questions collection repo.",
   "version": "1.0.0",
@@ -15,9 +12,12 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/mortal-cultivation-biography/daydayup/issues"
   },
-  "homepage": "https://github.com/mortal-cultivation-biography/daydayup#readme"
+  "homepage": "https://github.com/mortal-cultivation-biography/daydayup#readme",
+  "dependencies": {
+    "issue-collection-md": "^0.0.5"
+  }
 }
