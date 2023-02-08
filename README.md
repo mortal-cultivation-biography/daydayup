@@ -1,9 +1,10 @@
 # 汇总
 
-> 更新时间：12/21/2022
+> 更新时间：2/8/2023
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
+|[实现函数，判断传入的函数是否标记了 async](https://github.com/mortal-cultivation-biography/daydayup/issues/27)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2023/2/8|0|
 |[实现 LRU](https://github.com/mortal-cultivation-biography/daydayup/issues/26)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2022/11/29|1|
 |[实现 a == 1 && a == 2 && a == 3](https://github.com/mortal-cultivation-biography/daydayup/issues/25)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2022/11/29|3|
 |[实现 repeat 方法](https://github.com/mortal-cultivation-biography/daydayup/issues/24)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2022/11/28|1|
