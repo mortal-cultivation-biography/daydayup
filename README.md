@@ -1,10 +1,11 @@
 # 汇总
 
-> 更新时间：3/21/2023
+> 更新时间：3/22/2023
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
-|[实现金额的千位分隔](https://github.com/mortal-cultivation-biography/daydayup/issues/30)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2023/3/21|0|
+|[实现 for of 遍历对象](https://github.com/mortal-cultivation-biography/daydayup/issues/31)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2023/3/22|1|
+|[实现金额的千位分隔](https://github.com/mortal-cultivation-biography/daydayup/issues/30)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2023/3/21|1|
 |[v8垃圾回收机制](https://github.com/mortal-cultivation-biography/daydayup/issues/29)|![浏览器](https://img.shields.io/badge/-浏览器-B22B02)|2023/3/3|2|
 |[script 标签的 defer 和 async 的执行](https://github.com/mortal-cultivation-biography/daydayup/issues/28)|![html](https://img.shields.io/badge/-html-585A7D)|2023/2/22|1|
 |[实现函数，判断传入的函数是否标记了 async](https://github.com/mortal-cultivation-biography/daydayup/issues/27)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2023/3/20|1|
