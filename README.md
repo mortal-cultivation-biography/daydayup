@@ -1,10 +1,14 @@
 # 汇总
 
-> 更新时间：3/26/2023
+> 更新时间：4/9/2023
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
-|[React怎么做错误处理?](https://github.com/mortal-cultivation-biography/daydayup/issues/33)|![React](https://img.shields.io/badge/-React-02FCFB)|2023/3/26|0|
+|[实现 apply/call/bind](https://github.com/mortal-cultivation-biography/daydayup/issues/37)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2023/4/9|1|
+|[SPA 前端路由原理](https://github.com/mortal-cultivation-biography/daydayup/issues/36)|![Vue](https://img.shields.io/badge/-Vue-0E8A16) ![React](https://img.shields.io/badge/-React-02FCFB)|2023/3/29|0|
+|[使用 setTimeout 实现 setInterval](https://github.com/mortal-cultivation-biography/daydayup/issues/35)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2023/3/28|0|
+|[实现 softbind](https://github.com/mortal-cultivation-biography/daydayup/issues/34)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2023/3/28|0|
+|[React怎么做错误处理?](https://github.com/mortal-cultivation-biography/daydayup/issues/33)|![React](https://img.shields.io/badge/-React-02FCFB)|2023/3/26|1|
 |[实现一个可以无限累加的函数](https://github.com/mortal-cultivation-biography/daydayup/issues/32)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2023/3/23|1|
 |[实现 for of 遍历对象](https://github.com/mortal-cultivation-biography/daydayup/issues/31)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2023/3/22|1|
 |[实现金额的千位分隔](https://github.com/mortal-cultivation-biography/daydayup/issues/30)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2023/3/21|1|
