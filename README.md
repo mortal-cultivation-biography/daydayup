@@ -1,9 +1,10 @@
 # 汇总
 
-> 更新时间：4/9/2023
+> 更新时间：4/10/2023
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
+|[箭头函数与普通函数的区别](https://github.com/mortal-cultivation-biography/daydayup/issues/38)|![ES6](https://img.shields.io/badge/-ES6-B3FDB9)|2023/4/10|0|
 |[实现 apply/call/bind](https://github.com/mortal-cultivation-biography/daydayup/issues/37)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2023/4/9|1|
 |[SPA 前端路由原理](https://github.com/mortal-cultivation-biography/daydayup/issues/36)|![Vue](https://img.shields.io/badge/-Vue-0E8A16) ![React](https://img.shields.io/badge/-React-02FCFB)|2023/3/29|0|
 |[使用 setTimeout 实现 setInterval](https://github.com/mortal-cultivation-biography/daydayup/issues/35)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2023/3/28|0|
