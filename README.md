@@ -1,11 +1,11 @@
 # 汇总
 
-> 更新时间：4/17/2023
+> 更新时间：5/7/2023
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
 |[Tapable 的作用和实现，为什么需要他](https://github.com/mortal-cultivation-biography/daydayup/issues/41)|![javascript](https://img.shields.io/badge/-javascript-bfdadc) ![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2023/4/17|0|
-|[为什么为任务队列清零才执行宏任务](https://github.com/mortal-cultivation-biography/daydayup/issues/40)|![ES6](https://img.shields.io/badge/-ES6-B3FDB9)|2023/4/17|0|
+|[为什么为任务队列清零才执行宏任务](https://github.com/mortal-cultivation-biography/daydayup/issues/40)|![ES6](https://img.shields.io/badge/-ES6-B3FDB9)|2023/4/17|1|
 |[React.Suspense 的功能和原理](https://github.com/mortal-cultivation-biography/daydayup/issues/39)|![React](https://img.shields.io/badge/-React-02FCFB)|2023/4/12|1|
 |[箭头函数与普通函数的区别](https://github.com/mortal-cultivation-biography/daydayup/issues/38)|![ES6](https://img.shields.io/badge/-ES6-B3FDB9)|2023/4/10|0|
 |[实现 apply/call/bind](https://github.com/mortal-cultivation-biography/daydayup/issues/37)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2023/4/9|1|
