@@ -1,9 +1,10 @@
 # 汇总
 
-> 更新时间：5/7/2023
+> 更新时间：5/8/2023
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
+|[Symbol 的定义和作用](https://github.com/mortal-cultivation-biography/daydayup/issues/42)|![ES6](https://img.shields.io/badge/-ES6-B3FDB9)|2023/5/8|0|
 |[Tapable 的作用和实现，为什么需要他](https://github.com/mortal-cultivation-biography/daydayup/issues/41)|![javascript](https://img.shields.io/badge/-javascript-bfdadc) ![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2023/4/17|0|
 |[为什么为任务队列清零才执行宏任务](https://github.com/mortal-cultivation-biography/daydayup/issues/40)|![ES6](https://img.shields.io/badge/-ES6-B3FDB9)|2023/4/17|1|
 |[React.Suspense 的功能和原理](https://github.com/mortal-cultivation-biography/daydayup/issues/39)|![React](https://img.shields.io/badge/-React-02FCFB)|2023/4/12|1|
