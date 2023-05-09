@@ -4,6 +4,7 @@
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
+|[0.1+0.2为什么不等于0.3](https://github.com/mortal-cultivation-biography/daydayup/issues/45)|![javascript](https://img.shields.io/badge/-javascript-bfdadc)|2023/5/9|0|
 |[js](https://github.com/mortal-cultivation-biography/daydayup/issues/44)|![javascript](https://img.shields.io/badge/-javascript-bfdadc)|2023/5/9|1|
 |[实现 new 操作符](https://github.com/mortal-cultivation-biography/daydayup/issues/43)|![javascript](https://img.shields.io/badge/-javascript-bfdadc)|2023/5/9|1|
 |[Symbol 的定义和作用](https://github.com/mortal-cultivation-biography/daydayup/issues/42)|![ES6](https://img.shields.io/badge/-ES6-B3FDB9)|2023/5/8|1|
