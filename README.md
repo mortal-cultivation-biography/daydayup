@@ -4,7 +4,7 @@
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
-|[js](https://github.com/mortal-cultivation-biography/daydayup/issues/44)||2023/5/9|0|
+|[js](https://github.com/mortal-cultivation-biography/daydayup/issues/44)|![javascript](https://img.shields.io/badge/-javascript-bfdadc)|2023/5/9|0|
 |[实现 new 操作符](https://github.com/mortal-cultivation-biography/daydayup/issues/43)|![javascript](https://img.shields.io/badge/-javascript-bfdadc)|2023/5/9|1|
 |[Symbol 的定义和作用](https://github.com/mortal-cultivation-biography/daydayup/issues/42)|![ES6](https://img.shields.io/badge/-ES6-B3FDB9)|2023/5/8|1|
 |[Tapable 的作用和实现，为什么需要他](https://github.com/mortal-cultivation-biography/daydayup/issues/41)|![javascript](https://img.shields.io/badge/-javascript-bfdadc) ![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2023/4/17|0|
