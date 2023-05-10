@@ -4,6 +4,7 @@
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
+|[比较版本号大小](https://github.com/mortal-cultivation-biography/daydayup/issues/47)|![算法](https://img.shields.io/badge/-算法-8ED85A)|2023/5/10|1|
 |[XSS 和 CSRF](https://github.com/mortal-cultivation-biography/daydayup/issues/46)|![网络](https://img.shields.io/badge/-网络-006b75)|2023/5/10|1|
 |[0.1+0.2为什么不等于0.3](https://github.com/mortal-cultivation-biography/daydayup/issues/45)|![javascript](https://img.shields.io/badge/-javascript-bfdadc)|2023/5/10|1|
 |[js](https://github.com/mortal-cultivation-biography/daydayup/issues/44)|![javascript](https://img.shields.io/badge/-javascript-bfdadc)|2023/5/9|1|
