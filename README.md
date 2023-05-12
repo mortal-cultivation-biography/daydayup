@@ -1,10 +1,11 @@
 # 汇总
 
-> 更新时间：5/11/2023
+> 更新时间：5/12/2023
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
-|[Reflect 的概念和作用](https://github.com/mortal-cultivation-biography/daydayup/issues/49)|![ES6](https://img.shields.io/badge/-ES6-B3FDB9)|2023/5/11|0|
+|[抢红包算法](https://github.com/mortal-cultivation-biography/daydayup/issues/50)|![算法](https://img.shields.io/badge/-算法-8ED85A) ![TODO](https://img.shields.io/badge/-TODO-006b75)|2023/5/12|0|
+|[Reflect 的概念和作用](https://github.com/mortal-cultivation-biography/daydayup/issues/49)|![ES6](https://img.shields.io/badge/-ES6-B3FDB9) ![TODO](https://img.shields.io/badge/-TODO-006b75)|2023/5/12|0|
 |[flex: auto/1/none ](https://github.com/mortal-cultivation-biography/daydayup/issues/48)|![CSS](https://img.shields.io/badge/-CSS-0D7622)|2023/5/11|1|
 |[比较版本号大小](https://github.com/mortal-cultivation-biography/daydayup/issues/47)|![算法](https://img.shields.io/badge/-算法-8ED85A)|2023/5/10|1|
 |[XSS 和 CSRF](https://github.com/mortal-cultivation-biography/daydayup/issues/46)|![网络](https://img.shields.io/badge/-网络-006b75)|2023/5/10|1|
