@@ -4,7 +4,7 @@
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
-|[React Fiber 相对于虚拟 DOM 的数结构有什么优势](https://github.com/mortal-cultivation-biography/daydayup/issues/57)|![React](https://img.shields.io/badge/-React-02FCFB)|2023/5/18|0|
+|[React Fiber 相对于虚拟 DOM 的数结构有什么优势](https://github.com/mortal-cultivation-biography/daydayup/issues/57)|![React](https://img.shields.io/badge/-React-02FCFB)|2023/5/18|1|
 |[React Fiber 的执行流程](https://github.com/mortal-cultivation-biography/daydayup/issues/56)|![React](https://img.shields.io/badge/-React-02FCFB)|2023/5/17|1|
 |[说一下 generator](https://github.com/mortal-cultivation-biography/daydayup/issues/55)|![ES6](https://img.shields.io/badge/-ES6-B3FDB9)|2023/5/17|1|
 |[DNS 劫持](https://github.com/mortal-cultivation-biography/daydayup/issues/54)|![网络](https://img.shields.io/badge/-网络-006b75)|2023/5/17|1|
