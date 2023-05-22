@@ -4,7 +4,7 @@
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
-|[webpack](https://github.com/mortal-cultivation-biography/daydayup/issues/62)||2023/5/22|0|
+|[weakmap 的原理](https://github.com/mortal-cultivation-biography/daydayup/issues/62)|![ES6](https://img.shields.io/badge/-ES6-B3FDB9)|2023/5/22|0|
 |[z-index 的计算规则](https://github.com/mortal-cultivation-biography/daydayup/issues/61)|![CSS](https://img.shields.io/badge/-CSS-0D7622) ![TODO](https://img.shields.io/badge/-TODO-006b75)|2023/5/21|0|
 |[打印杨辉三角的前 n 行](https://github.com/mortal-cultivation-biography/daydayup/issues/60)|![算法](https://img.shields.io/badge/-算法-8ED85A)|2023/5/18|1|
 |[实现快速排序](https://github.com/mortal-cultivation-biography/daydayup/issues/59)|![算法](https://img.shields.io/badge/-算法-8ED85A)|2023/5/18|1|
