@@ -1,6 +1,6 @@
 # 汇总
 
-> 更新时间：5/21/2023
+> 更新时间：5/22/2023
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
@@ -48,7 +48,7 @@
 |[观察者模式](https://github.com/mortal-cultivation-biography/daydayup/issues/20)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2022/11/25|1|
 |[深浅拷贝](https://github.com/mortal-cultivation-biography/daydayup/issues/19)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2022/11/25|1|
 |[实现 flat（es6）](https://github.com/mortal-cultivation-biography/daydayup/issues/18)|![ES6](https://img.shields.io/badge/-ES6-B3FDB9) ![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2022/11/23|1|
-|[实现 Array.prototype.reduce](https://github.com/mortal-cultivation-biography/daydayup/issues/17)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2022/11/23|1|
+|[实现 Array.prototype.reduce](https://github.com/mortal-cultivation-biography/daydayup/issues/17)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2023/5/22|2|
 |[实现 Arrary.prototype.filter](https://github.com/mortal-cultivation-biography/daydayup/issues/16)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2022/11/23|1|
 |[实现 Array.prototype.map](https://github.com/mortal-cultivation-biography/daydayup/issues/15)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2022/11/23|1|
 |[全排列](https://github.com/mortal-cultivation-biography/daydayup/issues/14)|![算法](https://img.shields.io/badge/-算法-8ED85A)|2022/11/23|1|
