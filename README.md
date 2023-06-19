@@ -7,8 +7,8 @@
 |[rollup 的编译流程是什么，与 webpack 有什么区别](https://github.com/mortal-cultivation-biography/daydayup/issues/71)|![TODO](https://img.shields.io/badge/-TODO-006b75) ![webpack](https://img.shields.io/badge/-webpack-1d76db)|2023/6/19|0|
 |[Content-Type 字段有哪些值](https://github.com/mortal-cultivation-biography/daydayup/issues/70)|![网络](https://img.shields.io/badge/-网络-006b75) ![TODO](https://img.shields.io/badge/-TODO-006b75)|2023/6/19|0|
 |[跨域方法有哪些](https://github.com/mortal-cultivation-biography/daydayup/issues/69)|![网络](https://img.shields.io/badge/-网络-006b75) ![TODO](https://img.shields.io/badge/-TODO-006b75)|2023/6/19|0|
-|[HTTP3 是什么](https://github.com/mortal-cultivation-biography/daydayup/issues/68)|![网络](https://img.shields.io/badge/-网络-006b75) ![TODO](https://img.shields.io/badge/-TODO-006b75)|2023/6/19|0|
-|[HTTP2 有什么特性](https://github.com/mortal-cultivation-biography/daydayup/issues/67)|![网络](https://img.shields.io/badge/-网络-006b75) ![TODO](https://img.shields.io/badge/-TODO-006b75)|2023/6/19|1|
+|[HTTP3 是什么](https://github.com/mortal-cultivation-biography/daydayup/issues/68)|![网络](https://img.shields.io/badge/-网络-006b75)|2023/6/19|1|
+|[HTTP2 有什么特性](https://github.com/mortal-cultivation-biography/daydayup/issues/67)|![网络](https://img.shields.io/badge/-网络-006b75)|2023/6/19|1|
 |[webpack 的编译流程是什么](https://github.com/mortal-cultivation-biography/daydayup/issues/66)|![TODO](https://img.shields.io/badge/-TODO-006b75) ![webpack](https://img.shields.io/badge/-webpack-1d76db)|2023/6/19|0|
 |[JWT 是什么](https://github.com/mortal-cultivation-biography/daydayup/issues/65)|![网络](https://img.shields.io/badge/-网络-006b75)|2023/6/14|0|
 |[webpack 5 有哪些新功能](https://github.com/mortal-cultivation-biography/daydayup/issues/64)|![webpack](https://img.shields.io/badge/-webpack-1d76db)|2023/5/24|1|
