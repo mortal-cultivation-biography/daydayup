@@ -1,9 +1,10 @@
 # 汇总
 
-> 更新时间：6/18/2023
+> 更新时间：6/19/2023
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
+|[HTTP2 有什么特性](https://github.com/mortal-cultivation-biography/daydayup/issues/67)|![网络](https://img.shields.io/badge/-网络-006b75) ![TODO](https://img.shields.io/badge/-TODO-006b75)|2023/6/19|0|
 |[webpack 的编译流程是什么](https://github.com/mortal-cultivation-biography/daydayup/issues/66)|![webpack](https://img.shields.io/badge/-webpack-1d76db)|2023/6/18|0|
 |[JWT 是什么](https://github.com/mortal-cultivation-biography/daydayup/issues/65)|![网络](https://img.shields.io/badge/-网络-006b75)|2023/6/14|0|
 |[webpack 5 有哪些新功能](https://github.com/mortal-cultivation-biography/daydayup/issues/64)|![webpack](https://img.shields.io/badge/-webpack-1d76db)|2023/5/24|1|
