@@ -4,7 +4,7 @@
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
-|[React 为什么使用 messageChannel 而不是 requestIdleCallback 来执行任务](https://github.com/mortal-cultivation-biography/daydayup/issues/73)|![React](https://img.shields.io/badge/-React-02FCFB)|2023/6/25|2|
+|[React 为什么使用 messageChannel 而不是 requestIdleCallback 来执行任务](https://github.com/mortal-cultivation-biography/daydayup/issues/73)|![React](https://img.shields.io/badge/-React-02FCFB)|2023/6/25|3|
 |[Content-Type 有哪些类型](https://github.com/mortal-cultivation-biography/daydayup/issues/72)|![网络](https://img.shields.io/badge/-网络-006b75)|2023/6/21|2|
 |[rollup 的编译流程是什么，与 webpack 有什么区别](https://github.com/mortal-cultivation-biography/daydayup/issues/71)|![TODO](https://img.shields.io/badge/-TODO-006b75) ![webpack](https://img.shields.io/badge/-webpack-1d76db)|2023/6/19|0|
 |[Content-Type 字段有哪些值](https://github.com/mortal-cultivation-biography/daydayup/issues/70)|![网络](https://img.shields.io/badge/-网络-006b75) ![TODO](https://img.shields.io/badge/-TODO-006b75)|2023/6/19|0|
