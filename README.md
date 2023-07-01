@@ -4,7 +4,7 @@
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
-|[实现 防抖 debounce/节流 throttle](https://github.com/mortal-cultivation-biography/daydayup/issues/75)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2023/7/1|1|
+|[实现 防抖 debounce/节流 throttle](https://github.com/mortal-cultivation-biography/daydayup/issues/75)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2023/7/1|2|
 |[实现 new](https://github.com/mortal-cultivation-biography/daydayup/issues/74)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2023/6/28|1|
 |[React 为什么使用 messageChannel 而不是 requestIdleCallback 来执行任务](https://github.com/mortal-cultivation-biography/daydayup/issues/73)|![React](https://img.shields.io/badge/-React-02FCFB)|2023/6/25|3|
 |[Content-Type 有哪些类型](https://github.com/mortal-cultivation-biography/daydayup/issues/72)|![网络](https://img.shields.io/badge/-网络-006b75)|2023/6/21|2|
