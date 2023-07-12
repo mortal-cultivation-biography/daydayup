@@ -4,21 +4,25 @@
   "version": "1.0.0",
   "main": "main.js",
   "type": "module",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mortal-cultivation-biography/daydayup.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "react",
+    "vue",
+    "javascript",
+    "typescript",
+    "css",
+    "interview-questions"
+  ],
+  "author": "nmsn <1366696700@qq.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mortal-cultivation-biography/daydayup/issues"
   },
   "homepage": "https://github.com/mortal-cultivation-biography/daydayup#readme",
   "dependencies": {
-    "issue-collection-md": "^0.0.5"
+    "issue-collection-md": "^0.1.1"
   }
 }
