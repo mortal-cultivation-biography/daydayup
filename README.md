@@ -4,7 +4,7 @@
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
-|[js 异步任务的竞态问题](https://github.com/mortal-cultivation-biography/daydayup/issues/80)|![javascript](https://img.shields.io/badge/-javascript-bfdadc)|2023/7/20|0|
+|[js 异步任务的竞态问题](https://github.com/mortal-cultivation-biography/daydayup/issues/80)|![javascript](https://img.shields.io/badge/-javascript-bfdadc)|2023/7/20|1|
 |[实现一个 query 方法，实现对数据的链式查询和处理](https://github.com/mortal-cultivation-biography/daydayup/issues/79)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2023/7/19|1|
 |[React 中 ref 的适用场景](https://github.com/mortal-cultivation-biography/daydayup/issues/78)|![React](https://img.shields.io/badge/-React-02FCFB)|2023/7/17|2|
 |[React 在严格模式下 useEffect 会执行两次的原因](https://github.com/mortal-cultivation-biography/daydayup/issues/77)|![React](https://img.shields.io/badge/-React-02FCFB)|2023/7/14|1|
