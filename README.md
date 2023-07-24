@@ -4,6 +4,7 @@
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
+|[try catch 无法处理异步错误问题](https://github.com/mortal-cultivation-biography/daydayup/issues/84)|![ES6](https://img.shields.io/badge/-ES6-B3FDB9)|2023/7/24|0|
 |[CSS 中哪些属性会继承](https://github.com/mortal-cultivation-biography/daydayup/issues/83)|![CSS](https://img.shields.io/badge/-CSS-0D7622)|2023/7/24|1|
 |[React 中函数组件和类组件的区别](https://github.com/mortal-cultivation-biography/daydayup/issues/82)|![React](https://img.shields.io/badge/-React-02FCFB)|2023/7/22|1|
 |[css 实现三角形并为其添加阴影](https://github.com/mortal-cultivation-biography/daydayup/issues/81)|![CSS](https://img.shields.io/badge/-CSS-0D7622)|2023/7/20|2|
