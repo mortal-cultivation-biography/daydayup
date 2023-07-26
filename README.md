@@ -4,7 +4,7 @@
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
-|[实现发布订阅模式](https://github.com/mortal-cultivation-biography/daydayup/issues/87)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2023/7/26|0|
+|[实现发布订阅模式](https://github.com/mortal-cultivation-biography/daydayup/issues/87)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2023/7/26|1|
 |[比较版本号大小](https://github.com/mortal-cultivation-biography/daydayup/issues/86)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2023/7/26|0|
 |[CSS 样式权重与优先级](https://github.com/mortal-cultivation-biography/daydayup/issues/85)|![CSS](https://img.shields.io/badge/-CSS-0D7622)|2023/7/25|1|
 |[try catch 无法处理异步错误问题](https://github.com/mortal-cultivation-biography/daydayup/issues/84)|![ES6](https://img.shields.io/badge/-ES6-B3FDB9)|2023/7/24|1|
