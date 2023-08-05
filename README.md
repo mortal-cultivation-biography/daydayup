@@ -1,9 +1,10 @@
 # Collection
 
-> 更新时间：8/1/2023
+> 更新时间：8/5/2023
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
+|[Vite 快的原因](https://github.com/mortal-cultivation-biography/daydayup/issues/90)||2023/8/5|0|
 |[实现柯里化 curry](https://github.com/mortal-cultivation-biography/daydayup/issues/89)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2023/8/1|1|
 |[实现中间件](https://github.com/mortal-cultivation-biography/daydayup/issues/88)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2023/7/28|1|
 |[实现发布订阅模式](https://github.com/mortal-cultivation-biography/daydayup/issues/87)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2023/7/26|1|
