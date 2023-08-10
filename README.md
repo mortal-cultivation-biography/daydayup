@@ -1,9 +1,10 @@
 # Collection
 
-> 更新时间：8/7/2023
+> 更新时间：8/10/2023
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
+|[函数缓存是什么](https://github.com/mortal-cultivation-biography/daydayup/issues/93)|![javascript](https://img.shields.io/badge/-javascript-bfdadc)|2023/8/10|0|
 |[Reflect 推出是做什么用的](https://github.com/mortal-cultivation-biography/daydayup/issues/92)|![ES6](https://img.shields.io/badge/-ES6-B3FDB9)|2023/8/7|1|
 |[React Class 组件的缺点](https://github.com/mortal-cultivation-biography/daydayup/issues/91)|![React](https://img.shields.io/badge/-React-02FCFB)|2023/8/7|1|
 |[Vite 快的原因](https://github.com/mortal-cultivation-biography/daydayup/issues/90)||2023/8/5|1|
