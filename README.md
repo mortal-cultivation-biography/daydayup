@@ -4,7 +4,7 @@
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
-|[原型与原型链](https://github.com/mortal-cultivation-biography/daydayup/issues/97)|![Javascript](https://img.shields.io/badge/-Javascript-bfdadc)|2023/8/14|0|
+|[原型与原型链](https://github.com/mortal-cultivation-biography/daydayup/issues/97)|![Javascript](https://img.shields.io/badge/-Javascript-bfdadc)|2023/8/14|1|
 |[ts 中 object/Object/{} 区别](https://github.com/mortal-cultivation-biography/daydayup/issues/96)|![Typescript](https://img.shields.io/badge/-Typescript-6B4679)|2023/8/14|1|
 |[当递归函数调用层级过深或处理大量数据时，可能会导致内存溢出的问题，如何解决？](https://github.com/mortal-cultivation-biography/daydayup/issues/95)|![Javascript](https://img.shields.io/badge/-Javascript-bfdadc)|2023/8/11|1|
 |[如何实现浏览器多标签页之间的通信？](https://github.com/mortal-cultivation-biography/daydayup/issues/94)|![浏览器](https://img.shields.io/badge/-浏览器-B22B02)|2023/8/11|2|
@@ -48,8 +48,8 @@
 |[React Fiber 的执行流程](https://github.com/mortal-cultivation-biography/daydayup/issues/56)|![React](https://img.shields.io/badge/-React-02FCFB)|2023/5/17|1|
 |[说一下 generator](https://github.com/mortal-cultivation-biography/daydayup/issues/55)|![ES6](https://img.shields.io/badge/-ES6-B3FDB9)|2023/5/17|1|
 |[DNS 劫持](https://github.com/mortal-cultivation-biography/daydayup/issues/54)|![网络](https://img.shields.io/badge/-网络-006b75)|2023/5/17|1|
-|[RAIL 规则是什么](https://github.com/mortal-cultivation-biography/daydayup/issues/53)|![html](https://img.shields.io/badge/-html-585A7D)|2023/5/17|1|
-|[meta 标签的作用](https://github.com/mortal-cultivation-biography/daydayup/issues/52)|![html](https://img.shields.io/badge/-html-585A7D)|2023/5/15|1|
+|[RAIL 规则是什么](https://github.com/mortal-cultivation-biography/daydayup/issues/53)|![HTML](https://img.shields.io/badge/-HTML-585A7D)|2023/5/17|1|
+|[meta 标签的作用](https://github.com/mortal-cultivation-biography/daydayup/issues/52)|![HTML](https://img.shields.io/badge/-HTML-585A7D)|2023/5/15|1|
 |[介绍一下渲染合成层及作用](https://github.com/mortal-cultivation-biography/daydayup/issues/51)|![CSS](https://img.shields.io/badge/-CSS-0D7622) ![TODO](https://img.shields.io/badge/-TODO-006b75)|2023/5/14|0|
 |[抢红包算法](https://github.com/mortal-cultivation-biography/daydayup/issues/50)|![算法](https://img.shields.io/badge/-算法-8ED85A) ![TODO](https://img.shields.io/badge/-TODO-006b75)|2023/5/12|1|
 |[Reflect 的概念和作用](https://github.com/mortal-cultivation-biography/daydayup/issues/49)|![ES6](https://img.shields.io/badge/-ES6-B3FDB9) ![TODO](https://img.shields.io/badge/-TODO-006b75)|2023/5/12|0|
@@ -73,7 +73,7 @@
 |[实现 for of 遍历对象](https://github.com/mortal-cultivation-biography/daydayup/issues/31)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2023/3/22|1|
 |[实现金额的千位分隔](https://github.com/mortal-cultivation-biography/daydayup/issues/30)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45) ![TODO](https://img.shields.io/badge/-TODO-006b75)|2023/7/26|4|
 |[v8垃圾回收机制](https://github.com/mortal-cultivation-biography/daydayup/issues/29)|![浏览器](https://img.shields.io/badge/-浏览器-B22B02)|2023/3/3|2|
-|[script 标签的 defer 和 async 的执行](https://github.com/mortal-cultivation-biography/daydayup/issues/28)|![html](https://img.shields.io/badge/-html-585A7D)|2023/2/22|1|
+|[script 标签的 defer 和 async 的执行](https://github.com/mortal-cultivation-biography/daydayup/issues/28)|![HTML](https://img.shields.io/badge/-HTML-585A7D)|2023/2/22|1|
 |[实现函数，判断传入的函数是否标记了 async](https://github.com/mortal-cultivation-biography/daydayup/issues/27)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2023/3/20|1|
 |[实现 LRU](https://github.com/mortal-cultivation-biography/daydayup/issues/26)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2022/11/29|1|
 |[实现 a == 1 && a == 2 && a == 3](https://github.com/mortal-cultivation-biography/daydayup/issues/25)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2022/11/29|3|
