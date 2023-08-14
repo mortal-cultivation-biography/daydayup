@@ -4,7 +4,7 @@
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
-|[ts 中 object/Object/{} 区别](https://github.com/mortal-cultivation-biography/daydayup/issues/96)|![Typescript](https://img.shields.io/badge/-Typescript-6B4679)|2023/8/14|0|
+|[ts 中 object/Object/{} 区别](https://github.com/mortal-cultivation-biography/daydayup/issues/96)|![Typescript](https://img.shields.io/badge/-Typescript-6B4679)|2023/8/14|1|
 |[当递归函数调用层级过深或处理大量数据时，可能会导致内存溢出的问题，如何解决？](https://github.com/mortal-cultivation-biography/daydayup/issues/95)|![javascript](https://img.shields.io/badge/-javascript-bfdadc)|2023/8/11|1|
 |[如何实现浏览器多标签页之间的通信？](https://github.com/mortal-cultivation-biography/daydayup/issues/94)|![浏览器](https://img.shields.io/badge/-浏览器-B22B02)|2023/8/11|2|
 |[函数缓存是什么](https://github.com/mortal-cultivation-biography/daydayup/issues/93)|![javascript](https://img.shields.io/badge/-javascript-bfdadc) ![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2023/8/11|1|
