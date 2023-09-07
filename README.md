@@ -4,7 +4,7 @@
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
-|[数组与链表的区别](https://github.com/mortal-cultivation-biography/daydayup/issues/98)|![数据结构](https://img.shields.io/badge/-数据结构-c5def5)|2023/9/7|0|
+|[数组与链表的区别](https://github.com/mortal-cultivation-biography/daydayup/issues/98)|![数据结构](https://img.shields.io/badge/-数据结构-c5def5)|2023/9/7|1|
 |[原型与原型链](https://github.com/mortal-cultivation-biography/daydayup/issues/97)|![Javascript](https://img.shields.io/badge/-Javascript-bfdadc)|2023/8/14|1|
 |[ts 中 object/Object/{} 区别](https://github.com/mortal-cultivation-biography/daydayup/issues/96)|![Typescript](https://img.shields.io/badge/-Typescript-6B4679)|2023/8/14|1|
 |[当递归函数调用层级过深或处理大量数据时，可能会导致内存溢出的问题，如何解决？](https://github.com/mortal-cultivation-biography/daydayup/issues/95)|![Javascript](https://img.shields.io/badge/-Javascript-bfdadc)|2023/8/11|1|
