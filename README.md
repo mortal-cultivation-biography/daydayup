@@ -1,10 +1,10 @@
 # Collection
 
-> 更新时间：9/9/2023
+> 更新时间：9/18/2023
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
-|[Object 和 Map 的区别](https://github.com/mortal-cultivation-biography/daydayup/issues/99)|![ES6](https://img.shields.io/badge/-ES6-B3FDB9)|2023/9/9|0|
+|[Object 和 Map 的区别](https://github.com/mortal-cultivation-biography/daydayup/issues/99)|![ES6](https://img.shields.io/badge/-ES6-B3FDB9)|2023/9/18|1|
 |[数组与链表的区别](https://github.com/mortal-cultivation-biography/daydayup/issues/98)|![数据结构](https://img.shields.io/badge/-数据结构-c5def5)|2023/9/7|1|
 |[原型与原型链](https://github.com/mortal-cultivation-biography/daydayup/issues/97)|![Javascript](https://img.shields.io/badge/-Javascript-bfdadc)|2023/8/14|1|
 |[ts 中 object/Object/{} 区别](https://github.com/mortal-cultivation-biography/daydayup/issues/96)|![Typescript](https://img.shields.io/badge/-Typescript-6B4679)|2023/8/14|1|
