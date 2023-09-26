@@ -4,7 +4,7 @@
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
-|[使用 base64 图片的优缺点](https://github.com/mortal-cultivation-biography/daydayup/issues/100)|![浏览器](https://img.shields.io/badge/-浏览器-B22B02)|2023/9/26|0|
+|[使用 base64 图片的优缺点](https://github.com/mortal-cultivation-biography/daydayup/issues/100)|![浏览器](https://img.shields.io/badge/-浏览器-B22B02)|2023/9/26|1|
 |[Object 和 Map 的区别](https://github.com/mortal-cultivation-biography/daydayup/issues/99)|![ES6](https://img.shields.io/badge/-ES6-B3FDB9)|2023/9/18|1|
 |[数组与链表的区别](https://github.com/mortal-cultivation-biography/daydayup/issues/98)|![数据结构](https://img.shields.io/badge/-数据结构-c5def5)|2023/9/7|1|
 |[原型与原型链](https://github.com/mortal-cultivation-biography/daydayup/issues/97)|![Javascript](https://img.shields.io/badge/-Javascript-bfdadc)|2023/8/14|1|
