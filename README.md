@@ -1,9 +1,10 @@
 # Collection
 
-> 更新时间：9/7/2024
+> 更新时间：10/2/2024
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
+|[实现格子背景](https://github.com/mortal-cultivation-biography/daydayup/issues/103)|![CSS](https://img.shields.io/badge/-CSS-0D7622)|2024/10/2|0|
 |[js 数组新增 at 新特性](https://github.com/mortal-cultivation-biography/daydayup/issues/102)|![ES6](https://img.shields.io/badge/-ES6-B3FDB9)|2024/9/7|0|
 |[React 为什么要推出 Hooks？到底解决了什么问题？](https://github.com/mortal-cultivation-biography/daydayup/issues/101)|![React](https://img.shields.io/badge/-React-02FCFB)|2023/10/18|1|
 |[使用 base64 图片的优缺点](https://github.com/mortal-cultivation-biography/daydayup/issues/100)|![浏览器](https://img.shields.io/badge/-浏览器-B22B02)|2023/9/26|1|
@@ -103,6 +104,5 @@
 |[监听 history 的 push/replaceState 方法](https://github.com/mortal-cultivation-biography/daydayup/issues/6)|![Javascript](https://img.shields.io/badge/-Javascript-bfdadc) ![Vue](https://img.shields.io/badge/-Vue-0E8A16) ![React](https://img.shields.io/badge/-React-02FCFB)|2022/11/15|1|
 |[可以重试的请求方法](https://github.com/mortal-cultivation-biography/daydayup/issues/5)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2022/11/15|0|
 |[埋点如何捕获所有的 promise 错误？](https://github.com/mortal-cultivation-biography/daydayup/issues/4)|![ES6](https://img.shields.io/badge/-ES6-B3FDB9)|2022/11/11|0|
-|[突破闭包限制，获取作用域内对象方法](https://github.com/mortal-cultivation-biography/daydayup/issues/3)|![Javascript](https://img.shields.io/badge/-Javascript-bfdadc)|2022/11/10|0|
 
 [查看更多...](https://github.com/mortal-cultivation-biography/daydayup/issues)
