@@ -4,7 +4,7 @@
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
-|[图片懒加载都有哪些方法](https://github.com/mortal-cultivation-biography/daydayup/issues/105)|![Javascript](https://img.shields.io/badge/-Javascript-bfdadc)|2026/3/15|0|
+|[图片懒加载都有哪些方法](https://github.com/mortal-cultivation-biography/daydayup/issues/105)|![Javascript](https://img.shields.io/badge/-Javascript-bfdadc)|2026/3/15|1|
 |[isNaN 和 Number.isNaN 的区别？](https://github.com/mortal-cultivation-biography/daydayup/issues/104)|![Javascript](https://img.shields.io/badge/-Javascript-bfdadc)|2025/5/19|1|
 |[实现格子背景](https://github.com/mortal-cultivation-biography/daydayup/issues/103)|![CSS](https://img.shields.io/badge/-CSS-0D7622)|2024/10/2|0|
 |[js 数组新增 at 新特性](https://github.com/mortal-cultivation-biography/daydayup/issues/102)|![ES6](https://img.shields.io/badge/-ES6-B3FDB9)|2024/9/7|0|
