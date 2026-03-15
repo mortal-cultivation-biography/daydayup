@@ -4,6 +4,7 @@
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
+|[图片懒加载都有哪些方法](https://github.com/mortal-cultivation-biography/daydayup/issues/105)|![Javascript](https://img.shields.io/badge/-Javascript-bfdadc)|2026/3/15|0|
 |[isNaN 和 Number.isNaN 的区别？](https://github.com/mortal-cultivation-biography/daydayup/issues/104)|![Javascript](https://img.shields.io/badge/-Javascript-bfdadc)|2025/5/19|1|
 |[实现格子背景](https://github.com/mortal-cultivation-biography/daydayup/issues/103)|![CSS](https://img.shields.io/badge/-CSS-0D7622)|2024/10/2|0|
 |[js 数组新增 at 新特性](https://github.com/mortal-cultivation-biography/daydayup/issues/102)|![ES6](https://img.shields.io/badge/-ES6-B3FDB9)|2024/9/7|0|
@@ -103,6 +104,5 @@
 |[存在如下的html元素，利用flex布局实现左中右三个元素分别占据屏幕的25%、50%、25%](https://github.com/mortal-cultivation-biography/daydayup/issues/8)|![CSS](https://img.shields.io/badge/-CSS-0D7622)|2022/11/17|0|
 |[数组的乱序/洗牌算法](https://github.com/mortal-cultivation-biography/daydayup/issues/7)|![Javascript](https://img.shields.io/badge/-Javascript-bfdadc) ![算法](https://img.shields.io/badge/-算法-8ED85A)|2022/11/29|2|
 |[监听 history 的 push/replaceState 方法](https://github.com/mortal-cultivation-biography/daydayup/issues/6)|![Javascript](https://img.shields.io/badge/-Javascript-bfdadc) ![Vue](https://img.shields.io/badge/-Vue-0E8A16) ![React](https://img.shields.io/badge/-React-02FCFB)|2022/11/15|1|
-|[可以重试的请求方法](https://github.com/mortal-cultivation-biography/daydayup/issues/5)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2022/11/15|0|
 
 [查看更多...](https://github.com/mortal-cultivation-biography/daydayup/issues)
