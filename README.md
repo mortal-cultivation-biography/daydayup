@@ -4,6 +4,7 @@
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
+|[针对 TTFB 有什么具体的优化措施](https://github.com/mortal-cultivation-biography/daydayup/issues/113)||2026/3/19|0|
 |[事件循环](https://github.com/mortal-cultivation-biography/daydayup/issues/112)|![浏览器](https://img.shields.io/badge/-浏览器-B22B02)|2026/3/19|1|
 |[localhost 和 127.0.0.1 的区别](https://github.com/mortal-cultivation-biography/daydayup/issues/111)|![网络](https://img.shields.io/badge/-网络-006b75)|2026/3/19|0|
 |[同源策略与 Cookie 端口问题（同一个ip下的多个端口下的cookie是共享的）](https://github.com/mortal-cultivation-biography/daydayup/issues/110)|![网络](https://img.shields.io/badge/-网络-006b75)|2026/3/16|0|
@@ -103,6 +104,5 @@
 |[实现 Arrary.prototype.filter](https://github.com/mortal-cultivation-biography/daydayup/issues/16)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2022/11/23|1|
 |[实现 Array.prototype.map](https://github.com/mortal-cultivation-biography/daydayup/issues/15)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2022/11/23|1|
 |[全排列](https://github.com/mortal-cultivation-biography/daydayup/issues/14)|![算法](https://img.shields.io/badge/-算法-8ED85A)|2022/11/23|1|
-|[实现 sleep 函数](https://github.com/mortal-cultivation-biography/daydayup/issues/13)|![Javascript](https://img.shields.io/badge/-Javascript-bfdadc)|2022/11/18|1|
 
 [查看更多...](https://github.com/mortal-cultivation-biography/daydayup/issues)
