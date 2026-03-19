@@ -4,7 +4,7 @@
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
-|[事件循环](https://github.com/mortal-cultivation-biography/daydayup/issues/112)|![浏览器](https://img.shields.io/badge/-浏览器-B22B02)|2026/3/19|0|
+|[事件循环](https://github.com/mortal-cultivation-biography/daydayup/issues/112)|![浏览器](https://img.shields.io/badge/-浏览器-B22B02)|2026/3/19|1|
 |[localhost 和 127.0.0.1 的区别](https://github.com/mortal-cultivation-biography/daydayup/issues/111)|![网络](https://img.shields.io/badge/-网络-006b75)|2026/3/19|0|
 |[同源策略与 Cookie 端口问题（同一个ip下的多个端口下的cookie是共享的）](https://github.com/mortal-cultivation-biography/daydayup/issues/110)|![网络](https://img.shields.io/badge/-网络-006b75)|2026/3/16|0|
 |[Webpack 中 HMR 的实现原理](https://github.com/mortal-cultivation-biography/daydayup/issues/109)|![webpack](https://img.shields.io/badge/-webpack-1d76db)|2026/3/16|1|
