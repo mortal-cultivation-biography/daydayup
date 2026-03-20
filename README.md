@@ -4,6 +4,7 @@
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
+|[V8 引擎执行 JS 代码的完整流程](https://github.com/mortal-cultivation-biography/daydayup/issues/117)||2026/3/20|0|
 |[如何实现一个无限累加的 sum 函数](https://github.com/mortal-cultivation-biography/daydayup/issues/116)|![Javascript](https://img.shields.io/badge/-Javascript-bfdadc)|2026/3/20|0|
 |[如何找到当前页面出现次数最多的HTML标签](https://github.com/mortal-cultivation-biography/daydayup/issues/115)|![HTML](https://img.shields.io/badge/-HTML-585A7D)|2026/3/20|0|
 |[如何保障在弱网环境下 SSE 传输的稳定性](https://github.com/mortal-cultivation-biography/daydayup/issues/114)|![网络](https://img.shields.io/badge/-网络-006b75)|2026/3/19|0|
@@ -103,6 +104,5 @@
 |[观察者模式](https://github.com/mortal-cultivation-biography/daydayup/issues/20)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2023/6/25|1|
 |[深浅拷贝](https://github.com/mortal-cultivation-biography/daydayup/issues/19)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2022/11/25|1|
 |[实现 flat（es6）](https://github.com/mortal-cultivation-biography/daydayup/issues/18)|![ES6](https://img.shields.io/badge/-ES6-B3FDB9) ![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2022/11/23|1|
-|[实现 Array.prototype.reduce](https://github.com/mortal-cultivation-biography/daydayup/issues/17)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2023/5/22|2|
 
 [查看更多...](https://github.com/mortal-cultivation-biography/daydayup/issues)
