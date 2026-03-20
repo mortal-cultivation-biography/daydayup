@@ -1,9 +1,10 @@
 # Collection
 
-> 更新时间：3/19/2026
+> 更新时间：3/20/2026
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
+|[如何找到当前页面出现次数最多的HTML标签](https://github.com/mortal-cultivation-biography/daydayup/issues/115)|![HTML](https://img.shields.io/badge/-HTML-585A7D)|2026/3/20|0|
 |[如何保障在弱网环境下 SSE 传输的稳定性](https://github.com/mortal-cultivation-biography/daydayup/issues/114)|![网络](https://img.shields.io/badge/-网络-006b75)|2026/3/19|0|
 |[针对 TTFB 有什么具体的优化措施](https://github.com/mortal-cultivation-biography/daydayup/issues/113)|![网络](https://img.shields.io/badge/-网络-006b75)|2026/3/19|0|
 |[事件循环](https://github.com/mortal-cultivation-biography/daydayup/issues/112)|![浏览器](https://img.shields.io/badge/-浏览器-B22B02)|2026/3/19|1|
@@ -103,6 +104,5 @@
 |[实现 flat（es6）](https://github.com/mortal-cultivation-biography/daydayup/issues/18)|![ES6](https://img.shields.io/badge/-ES6-B3FDB9) ![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2022/11/23|1|
 |[实现 Array.prototype.reduce](https://github.com/mortal-cultivation-biography/daydayup/issues/17)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2023/5/22|2|
 |[实现 Arrary.prototype.filter](https://github.com/mortal-cultivation-biography/daydayup/issues/16)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2022/11/23|1|
-|[实现 Array.prototype.map](https://github.com/mortal-cultivation-biography/daydayup/issues/15)|![手写代码](https://img.shields.io/badge/-手写代码-7D2F45)|2022/11/23|1|
 
 [查看更多...](https://github.com/mortal-cultivation-biography/daydayup/issues)
